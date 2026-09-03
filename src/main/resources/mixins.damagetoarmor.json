@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.mydomain.Mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "damagetoarmor.refmap.json",
+  "mixins": [],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
